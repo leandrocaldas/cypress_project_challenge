@@ -3,7 +3,8 @@
     "cypress": "^13.3.1"
   },
   "scripts": {
-    "cy:run": "cypress run"
+    "cy:run": "cypress run",
+    "OnChrome": "cypress run --browser chrome"
   }
   
 }
